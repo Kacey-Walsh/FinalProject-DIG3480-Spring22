@@ -1,0 +1,12 @@
+{
+  "type": "unity",
+  "course": "dig3480",
+  "assignment": "Ruby's New Adventure",
+  "term": "s22",
+  "section": "bw61",
+  "host": "cf.gaim.dev",
+  "slug": "dig3480-s22-t3-rubys_new_adventure",
+  "gaim.vsix": "0.0.60",
+  "gaim.unity": "0.0.9",
+  "curBranch": "main"
+}
